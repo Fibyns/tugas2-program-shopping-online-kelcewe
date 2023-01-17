@@ -173,5 +173,6 @@ switch(pilihmenu){
 	
 		cout << endl;
 		cout << "Terima kasih" << endl;
-		
+	
+	return 0;
 }
